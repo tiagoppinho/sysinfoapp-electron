@@ -1,0 +1,21 @@
+{
+  "name": "sysinfoapp-electron",
+  "version": "1.0.0",
+  "description": "Simple electron app that displays some system information.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/tiagoppinho/sysinfoapp-electron",
+  "keywords": [
+    "electron",
+    "system",
+    "info",
+    "system-info"
+  ],
+  "author": "tiagoppinho",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^5.0.4"
+  }
+}
