@@ -16,6 +16,6 @@
   "author": "tiagoppinho",
   "license": "MIT",
   "dependencies": {
-    "electron": "^5.0.4"
+    "electron": "^9.1.0"
   }
 }
